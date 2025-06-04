@@ -140,7 +140,7 @@ const HeroSection = () => {
                     },
                   }}
                 >
-                  Contact Us
+                  Contact Now
                 </Button>
               </Stack>
             </Box>

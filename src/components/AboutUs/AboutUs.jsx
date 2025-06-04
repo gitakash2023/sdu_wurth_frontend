@@ -91,7 +91,7 @@ const AboutUs = () => (
         <Card elevation={3}>
           <CardContent>
             <Typography variant="h6" sx={{ color: indianBlue }} gutterBottom>
-              What Drives Us
+              What Drives Us 
             </Typography>
             <List>
               {keyPoints.map((item, index) => (
