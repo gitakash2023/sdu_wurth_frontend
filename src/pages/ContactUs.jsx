@@ -154,7 +154,7 @@ const ContactUs = () => {
                 </Box>
                 <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
                   <PhoneIcon sx={{ mr: 2, color: indianBlue }} />
-                  <Typography>+91 9646507183</Typography>
+                  <Typography>+962 79 123 4567</Typography>
                 </Box>
                 <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
                   <EmailIcon sx={{ mr: 2, color: indianBlue }} />
